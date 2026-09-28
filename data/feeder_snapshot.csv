@@ -1,0 +1,4 @@
+timestamp,substation,feeder,s_kva,s_rated_kva,duration_h
+2026-05-01 17:45,GI Garut,Cikelet,415.32,500,1.0
+2026-05-01 17:45,GI Garut,Cipanas,402.50,500,1.0
+2026-05-01 17:45,GI Garut,Cikopo,225.94,500,1.0

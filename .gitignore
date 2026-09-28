@@ -1,0 +1,4 @@
+adr.db
+outbox/
+.streamlit/secrets.toml
+__pycache__/
