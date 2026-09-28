@@ -1,7 +1,7 @@
 customer_id,name,feeder,email,flex_kw,monthly_bill_idr
-C-B01,Customer B-01 (Office),Cikelet,adr.test+b01@example.com,4.52,18500000
-C-B02,Customer B-02 (Bank branch),Cikelet,adr.test+b02@example.com,4.60,15200000
-C-I01,Customer I-01 (Cooperative),Cikelet,adr.test+i01@example.com,6.20,22750000
-C-B03,Customer B-03 (Bank branch),Cipanas,adr.test+b03@example.com,0.98,9800000
-C-B04,Customer B-04 (Bank branch),Cipanas,adr.test+b04@example.com,0.48,7400000
-C-I02,Customer I-02 (Stone crusher),Cipanas,adr.test+i02@example.com,1.04,31600000
+C-B01,PLN UID Jabar,Cikelet,adr.test+b01@example.com,4.52,18500000
+C-B02,Bank BCA A. Yani,Cikelet,adr.test+b02@example.com,4.60,15200000
+C-I01,Kopdes Merah Putih Cianjay,Cikelet,adr.test+i01@example.com,6.20,22750000
+C-B03,Bank BRI Summarecon,Cipanas,adr.test+b03@example.com,0.98,9800000
+C-B04,Bank BNI,Cipanas,adr.test+b04@example.com,0.48,7400000
+C-I02,Stone Cruisher Grogol,Cipanas,adr.test+i02@example.com,1.04,31600000
